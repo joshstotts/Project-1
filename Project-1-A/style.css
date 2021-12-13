@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(34, 34, 34);
+    
+}
+
+h1 {
+    display: flex;
+    color: rgba(0, 0, 255, 0.589);
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+}
+
+input {
+    display: flex, inline-block;
+    height: 25px;
+    width: 300px;
+    margin: -50px 5px;
+}
+.search {
+    width: 75px;
+    height: 31px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
