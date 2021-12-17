@@ -5,19 +5,34 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NBA Stats</title>
+    <title>Stock Watch</title>
     <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
+    <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script defer src="./script.js"></script>
 </head>
 
 <body>
 
-    <h1>NBA Stats</h1>
+<div>
+    <h1><i>Stock Watch</i></h1>
 
-    <div>
-        <input type="text" placeholder="Player,  Team, etc...">
-        <input class="search" type="button" value="Search">
-    </div>
+    <form>
+        <input type="text" placeholder="company name">
+        <input class="submit" type="submit" value="Search">
+    </form>
+
+    <main>
+        <h2>Ticker</h2>
+        <p id="ticker"></p>
+
+        <h2>Open</h2>
+        <p id="open"></p>
+
+        <h2>Close</h2>
+        <p id="close"></p>
+    </main>
+</div>
+   
 
 </body>
 
