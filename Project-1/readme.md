@@ -18,4 +18,6 @@
 <ul>
     <li>make it so you can compare muliple stocks</li>
     <li>add a "My Stocks" section</li>
+    <li>Seacrh by company name not ticker</li>
+    <li>links to market news</li>
 </ul>
