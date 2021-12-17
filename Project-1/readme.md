@@ -12,9 +12,10 @@
     <li>jQuery</li>
 </ul>
 
+<img src="desktop">
+
 <h2>To-do</h2>
 <ul>
-    <li>more responsive</li>
-    <li>add better background</li>
     <li>make it so you can compare muliple stocks</li>
     <li>add a "My Stocks" section</li>
+</ul>
