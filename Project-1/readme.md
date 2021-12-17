@@ -12,7 +12,7 @@
     <li>jQuery</li>
 </ul>
 
-<img src="desktop">
+<p>https://joshstotts.github.io/Project-1/</p>
 
 <h2>To-do</h2>
 <ul>
