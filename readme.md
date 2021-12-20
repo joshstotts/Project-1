@@ -11,6 +11,7 @@
     <li>JavaScript</li>
     <li>jQuery</li>
 </ul>
+<img width="1322" alt="Screen Shot 2021-12-19 at 10 44 22 PM" src="https://user-images.githubusercontent.com/94932808/146787847-8d27f0b0-3ab9-4666-9ffd-b28a462db356.png">
 
 <p>https://joshstotts.github.io/Project-1/</p>
 
