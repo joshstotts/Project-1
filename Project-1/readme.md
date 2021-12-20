@@ -1,4 +1,4 @@
-hgfdf
+
 
 <h2>TITLE</h2>
     <p>Stock Watch</p>
@@ -11,6 +11,7 @@ hgfdf
     <li>JavaScript</li>
     <li>jQuery</li>
 </ul>
+<img width="1322" alt="Screen Shot 2021-12-19 at 10 44 22 PM" src="https://user-images.githubusercontent.com/94932808/146713041-498d188a-6b26-4f87-96ee-fea3bf262ff3.png">
 
 <p>https://joshstotts.github.io/Project-1/</p>
 
