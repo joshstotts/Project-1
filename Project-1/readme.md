@@ -11,13 +11,12 @@
     <li>JavaScript</li>
     <li>jQuery</li>
 </ul>
-<img width="1322" alt="Screen Shot 2021-12-19 at 10 44 22 PM" src="https://user-images.githubusercontent.com/94932808/146713041-498d188a-6b26-4f87-96ee-fea3bf262ff3.png">
 
 <p>https://joshstotts.github.io/Project-1/</p>
 
 <h2>To-do</h2>
 <ul>
-    <li>Make it so you can compare multiple stocks</li>
+    <li>make it so you can compare muliple stocks</li>
     <li>add a "My Stocks" section</li>
     <li>Seacrh by company name not ticker</li>
     <li>links to market news</li>

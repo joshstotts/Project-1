@@ -1,5 +1,7 @@
 body {
     background: radial-gradient(black, gray);
+    background-image: url(https://i1.wp.com/ninjatrader.com/blog/wp-content/uploads/2020/09/Volume-Liquidity-new.png?fit=1200%2C309&ssl=1&resize=350%2C200);
+    background-size: cover;
 }
 
 h1 {
